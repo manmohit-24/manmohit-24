@@ -1,18 +1,43 @@
-## Hi there 👋
+<h1 align="center">
+  Welcome
+</h1>
 
-Manmohit Singh , CSE student at GNDU .
+<p align="center">
+  <em>“Debugging life’s code, one bug at a time.”</em>
+</p>
 
-<!--
-**Manmohit-Singh24/Manmohit-Singh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer with a full-stack background, focusing on backend and systems engineering.<br>
+  Learning algorithms and core computer science fundamentals along the way.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="www.linkedin.com/in/manmohit24">LinkedIn</a> • 
+  <a href="mailto:manmohit249@gmail.com">Email</a> •
+  <a href="https://x.com/Manmohit24">Twitter</a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages**  
+`TypeScript` · `Java`
+
+**Backend & Systems**  
+`NestJS` · `Express` · `Redis` · `BullMQ` · `WebSockets` · `Nginx`
+
+**Databases**  
+`PostgreSQL` · `MongoDB`
+
+**Frontend**  
+`React` · `Next.js` · `Tailwind CSS`
+
+**DevOps & Tools**  
+`Docker` · `Docker Compose` · `Linux` · `Git` · `CI/CD` · `Jest`
+
+---
+
+<p align="center">
+  <small>More repositories and experiments live inside my GitHub organizations.</small>
+</p>
