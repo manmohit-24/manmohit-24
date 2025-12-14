@@ -18,7 +18,7 @@
 ## Stack I’ve Used
 
 **Languages**  
-`TypeScript` · `Java`
+`JavaScript` · `Java`
 
 **Frontend**  
 `React` · `Next.js` · `Tailwind CSS`
@@ -36,7 +36,7 @@
 Learning correctness-first backend systems, including transactions, idempotency, and async workflows.
 
 **Tools being used in this learning :**  
-`NestJS` · `PostgreSQL` · `Redis` · `BullMQ`
+`TypeScript` . `NestJS` · `PostgreSQL` · `Redis` · `BullMQ`
 
 ---
 
