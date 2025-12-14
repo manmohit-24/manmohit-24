@@ -3,41 +3,46 @@
 </h1>
 
 <p align="center">
-  <em>“Debugging life’s code, one bug at a time.”</em>
+  I'm a Computer Science undergraduate with a full-stack background,<br>
+  currently spending more time on backend systems and engineering fundamentals.
 </p>
 
 <p align="center">
-  Developer with a full-stack background, focusing on backend and systems engineering.<br>
-  Learning algorithms and core computer science fundamentals along the way.
-</p>
-
-<p align="center">
-  <a href="www.linkedin.com/in/manmohit24">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/manmohit24">LinkedIn</a> • 
   <a href="mailto:manmohit249@gmail.com">Email</a> •
-  <a href="https://x.com/Manmohit24">Twitter</a> 
+  <a href="https://x.com/Manmohit24">Twitter</a>
 </p>
 
 ---
 
-## Tech Stack
+## Stack I’ve Used
 
 **Languages**  
 `TypeScript` · `Java`
 
-**Backend & Systems**  
-`NestJS` · `Express` · `Redis` · `BullMQ` · `WebSockets` · `Nginx`
-
-**Databases**  
-`PostgreSQL` · `MongoDB`
-
 **Frontend**  
 `React` · `Next.js` · `Tailwind CSS`
 
-**DevOps & Tools**  
-`Docker` · `Docker Compose` · `Linux` · `Git` · `CI/CD` · `Jest`
+**Backend**  
+`Express` · `MongoDB`
+
+**Dev & Tooling**  
+`Docker` · `Docker Compose` · `Linux` · `Git`
+
+---
+
+## Currently Learning / Focusing On
+
+Learning correctness-first backend systems, including transactions, idempotency, and async workflows.
+
+**Tools being used in this learning :**  
+`NestJS` · `PostgreSQL` · `Redis` · `BullMQ`
 
 ---
 
 <p align="center">
-  <small>More repositories and experiments live inside my GitHub organizations.</small>
+  <small style="opacity: 0.6;">
+    More repositories and experiments live inside my 
+    <a href="https://github.com/manmohit24-hackyards">GitHub organizations</a>.
+  </small>
 </p>
