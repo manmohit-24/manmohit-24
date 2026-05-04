@@ -1,10 +1,9 @@
 <h1 align="center">
-  Welcome
+  Manmohit Singh
 </h1>
 
 <p align="center">
-  I'm a Computer Science undergraduate with a full-stack background,<br>
-  currently spending more time on backend systems and engineering fundamentals.
+ I'm a Computer Science undergraduate building full-stack systems with a slight backend tilt.
 </p>
 
 <p align="center">
@@ -15,10 +14,10 @@
 
 ---
 
-## Stack I’ve Used
+## Tech
 
 **Languages**  
-`JavaScript` · `Java`
+ `JavaScript` · `TypeScript` · `Java`
 
 **Frontend**  
 `React` · `Next.js` · `Tailwind CSS`
@@ -33,10 +32,10 @@
 
 ## Currently Learning / Focusing On
 
-Learning correctness-first backend systems, including transactions, idempotency, and async workflows.
+Spending more time on backend systems, focusing on correctness, data integrity, and async workflows.
 
-**Tools being used in this learning :**  
-`TypeScript` . `NestJS` · `PostgreSQL` · `Redis` · `BullMQ`
+**Currently working with:**  
+`NestJS` · `PostgreSQL` · `Prisma` · `Redis` · `BullMQ`
 
 ---
 
