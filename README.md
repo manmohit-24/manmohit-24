@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manmohit24">LinkedIn</a> • 
   <a href="mailto:manmohit249@gmail.com">Email</a> •
-  <a href="https://x.com/Manmohit24">Twitter</a>
+  <a href="https://x.com/Manmohit24">Twitter</a> •
+  <a href="https://leetcode.com/u/Manmohit-24/">LeetCode</a>
 </p>
 
 ---
